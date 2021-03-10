@@ -1,2 +1,2 @@
 # Vanilla Cake
-*Vanilla Cake* is a dessert recipe, which is ideal for birthdays, anniversaries and tea time parties. It is made with available ingredients in home like all-purpose flour, vanilla essence, milk, eggs, butter and baking soda. It is the easiest cake recipe, which you can prepare at home.
+**Vanilla Cake** is a dessert recipe, which is ideal for birthdays, anniversaries and tea time parties. It is made with available ingredients in home like all-purpose flour, vanilla essence, milk, eggs, butter and baking soda. It is the easiest cake recipe, which you can prepare at home.
